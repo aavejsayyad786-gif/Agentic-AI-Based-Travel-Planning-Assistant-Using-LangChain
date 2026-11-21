@@ -1,0 +1,122 @@
+[
+  {
+    "place_id": "P001",
+    "city": "Goa",
+    "name": "Baga Beach",
+    "category": "beach",
+    "rating": 4.5,
+    "description": "Popular beach for seaside walks and water activities."
+  },
+  {
+    "place_id": "P002",
+    "city": "Goa",
+    "name": "Candolim Beach",
+    "category": "beach",
+    "rating": 4.4,
+    "description": "A relaxed stretch of coastline."
+  },
+  {
+    "place_id": "P003",
+    "city": "Goa",
+    "name": "Basilica of Bom Jesus",
+    "category": "history",
+    "rating": 4.7,
+    "description": "Historic church and UNESCO-listed heritage site."
+  },
+  {
+    "place_id": "P004",
+    "city": "Goa",
+    "name": "Fontainhas",
+    "category": "culture",
+    "rating": 4.5,
+    "description": "Latin Quarter known for colorful heritage streets."
+  },
+  {
+    "place_id": "P005",
+    "city": "Goa",
+    "name": "Dudhsagar Falls",
+    "category": "nature",
+    "rating": 4.6,
+    "description": "Large waterfall in a forested setting; check access and seasonal conditions."
+  },
+  {
+    "place_id": "P006",
+    "city": "Goa",
+    "name": "Anjuna Flea Market",
+    "category": "food",
+    "rating": 4.2,
+    "description": "Market area with local shopping and food stalls; check operating days."
+  },
+  {
+    "place_id": "P007",
+    "city": "Jaipur",
+    "name": "Amber Fort",
+    "category": "history",
+    "rating": 4.8,
+    "description": "Hilltop fort complex."
+  },
+  {
+    "place_id": "P008",
+    "city": "Jaipur",
+    "name": "Hawa Mahal",
+    "category": "history",
+    "rating": 4.7,
+    "description": "Iconic historic palace facade."
+  },
+  {
+    "place_id": "P009",
+    "city": "Jaipur",
+    "name": "City Palace",
+    "category": "culture",
+    "rating": 4.6,
+    "description": "Royal residence and museum complex."
+  },
+  {
+    "place_id": "P010",
+    "city": "Jaipur",
+    "name": "Jantar Mantar",
+    "category": "history",
+    "rating": 4.5,
+    "description": "Historic astronomical observatory."
+  },
+  {
+    "place_id": "P011",
+    "city": "Mumbai",
+    "name": "Gateway of India",
+    "category": "history",
+    "rating": 4.6,
+    "description": "Landmark waterfront monument."
+  },
+  {
+    "place_id": "P012",
+    "city": "Mumbai",
+    "name": "Marine Drive",
+    "category": "nature",
+    "rating": 4.5,
+    "description": "Seafront promenade."
+  },
+  {
+    "place_id": "P013",
+    "city": "Mumbai",
+    "name": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya",
+    "category": "culture",
+    "rating": 4.6,
+    "description": "Museum with art and history collections."
+  },
+  {
+    "place_id": "P014",
+    "city": "Bengaluru",
+    "name": "Lalbagh Botanical Garden",
+    "category": "nature",
+    "rating": 4.6,
+    "description": "Historic botanical garden."
+  },
+  {
+    "place_id": "P015",
+    "city": "Bengaluru",
+    "name": "Bangalore Palace",
+    "category": "history",
+    "rating": 4.4,
+    "description": "Palace with Tudor-inspired architecture."
+  }
+]

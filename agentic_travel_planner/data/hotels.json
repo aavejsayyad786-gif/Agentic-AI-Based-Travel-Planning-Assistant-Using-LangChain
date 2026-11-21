@@ -1,0 +1,90 @@
+[
+  {
+    "hotel_id": "H001",
+    "city": "Goa",
+    "name": "Sea Breeze Stay",
+    "price_per_night_inr": 3200,
+    "rating": 4.3,
+    "area": "Calangute",
+    "amenities": [
+      "Wi-Fi",
+      "Breakfast",
+      "Pool"
+    ]
+  },
+  {
+    "hotel_id": "H002",
+    "city": "Goa",
+    "name": "Palm Grove Hotel",
+    "price_per_night_inr": 2600,
+    "rating": 4.1,
+    "area": "Candolim",
+    "amenities": [
+      "Wi-Fi",
+      "Breakfast"
+    ]
+  },
+  {
+    "hotel_id": "H003",
+    "city": "Goa",
+    "name": "Coastal Comfort Resort",
+    "price_per_night_inr": 4800,
+    "rating": 4.6,
+    "area": "Baga",
+    "amenities": [
+      "Wi-Fi",
+      "Pool",
+      "Restaurant"
+    ]
+  },
+  {
+    "hotel_id": "H004",
+    "city": "Jaipur",
+    "name": "Pink City Residency",
+    "price_per_night_inr": 2800,
+    "rating": 4.2,
+    "area": "MI Road",
+    "amenities": [
+      "Wi-Fi",
+      "Breakfast"
+    ]
+  },
+  {
+    "hotel_id": "H005",
+    "city": "Jaipur",
+    "name": "Heritage Haveli Inn",
+    "price_per_night_inr": 4200,
+    "rating": 4.7,
+    "area": "Old City",
+    "amenities": [
+      "Wi-Fi",
+      "Restaurant",
+      "Heritage decor"
+    ]
+  },
+  {
+    "hotel_id": "H006",
+    "city": "Mumbai",
+    "name": "Harbour View Hotel",
+    "price_per_night_inr": 5500,
+    "rating": 4.1,
+    "area": "Colaba",
+    "amenities": [
+      "Wi-Fi",
+      "Restaurant"
+    ]
+  },
+  {
+    "hotel_id": "H007",
+    "city": "Bengaluru",
+    "name": "Garden City Suites",
+    "price_per_night_inr": 3900,
+    "rating": 4.4,
+    "area": "Indiranagar",
+    "amenities": [
+      "Wi-Fi",
+      "Breakfast",
+      "Gym"
+    ]
+  }
+]
